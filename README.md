@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá! Meu nome é LeonardoPintoPasseri 👌
+<br>
+📚 Estou estudando HTML5/CSS3/JS
+<hr>
 
-<!--
-**LeonardoPPasseri/LeonardoPPasseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoPPasseri&show_icons=true&bg_color=DEG,#0E1F26,#1F3740,#536A73,#8D9FA6" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPPasseri" />
+</a>
