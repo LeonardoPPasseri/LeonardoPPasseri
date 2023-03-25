@@ -1,7 +1,7 @@
 ### Olá! Meu nome é LeonardoPintoPasseri 👌
 <br>
-📚 Estou estudando HTML5/CSS3/JS
-
+📚 Estou estudando HTML5/CSS3/JS/C
+📖Faculdade CEFET/RJ 
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
