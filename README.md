@@ -1,6 +1,6 @@
 ### Olá! Meu nome é LeonardoPintoPasseri 👌
 <br>
-📚 Estou estudando HTML5/CSS3/JS/C
+📚 Estou estudando HTML5/CSS3/JS/C/JAVA
 <br>
 📖Faculdade CEFET/RJ 
 <hr>
